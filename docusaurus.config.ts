@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Physical AI & Humanoid Robotics Book By CodeWithHamza',
+  title: 'Physical AI & Humanoid Robotics Book By CodeWithShahzaib',
   tagline: 'A Comprehensive Textbook for Building Intelligent Embodied Systems',
   favicon: 'img/favicon.ico',
 
@@ -14,8 +14,8 @@ const config: Config = {
   url: 'https://your-vercel-project-url.vercel.app', // Replace with your actual Vercel URL after deployment
   baseUrl: '/',
 
-  organizationName: 'hamzashakoor119',
-  projectName: 'Physical-AI-Humanoid-Robotics-Book-By-CodeWithHamza',
+  organizationName: 'CodeWithShahzaib786',
+  projectName: 'physical-ai-humanoid-robotics-book-codewithshahzaib',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -31,7 +31,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/hamzashakoor119/Physical-AI-Humanoid-Robotics-Book-By-CodeWithHamza/tree/main/',
+          editUrl: 'https://github.com/CodeWithShahzaib786/physical-ai-humanoid-robotics-book-codewithshahzaib',
         },
         blog: {
           showReadingTime: true,
@@ -39,7 +39,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/hamzashakoor119/Physical-AI-Humanoid-Robotics-Book-By-CodeWithHamza/tree/main/',
+          editUrl: 'https://github.com/CodeWithShahzaib786/physical-ai-humanoid-robotics-book-codewithshahzaib',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -77,7 +77,7 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/hamzashakoor119/Physical-AI-Humanoid-Robotics-Book-By-CodeWithHamza',
+          href: 'https://github.com/CodeWithShahzaib786/physical-ai-humanoid-robotics-book-codewithshahzaib',
           label: 'GitHub',
           position: 'right',
         },
@@ -125,7 +125,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/hamzashakoor119/Physical-AI-Humanoid-Robotics-Book-By-CodeWithHamza',
+              href: 'https://github.com/CodeWithShahzaib786/physical-ai-humanoid-robotics-book-codewithshahzaib',
             },
             {
               label: 'GIAIC',
